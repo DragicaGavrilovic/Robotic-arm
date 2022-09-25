@@ -1,14 +1,28 @@
 # Robotska ruka – imitacija
 
 ##  Autori
-                                                    Dragica Gavrilović
-                                                    Konstantin Petrović
-                                                    Maksim Zečević
+
+    Dragica Gavrilović
+        Email: dragicagavrilovic05@gmail.com
+        Github: https://github.com/DragicaGavrilovic
+
+    Konstantin Petrović
+        Email: kokalinamax@gmail.com
+        Github: https://github.com/konstantin156
+        
+    Maksim Zečević
+        Email: maxzecue@gmail.com
+        Github: https://github.com/Zeko005
+
 ## Opis / Description
 
 Ruka je urađena pomoću Arduino platforme i sastoji se od tri servo motora koja čine tri ose rotacije. Ruka obavlja komande koje dobija preko serijskog porta sa računara, a mogućnosti su pomeranje levo, desno, gore, dole, opružanje i savijanje. Promene položaja se događaju za unapred definisani ugao, koji je mali, kako bi se omogućio dolazak do većeg broja tačaka u prostoru.
 
+Projekat je urađen u Istraživačkoj stanici Petnica tokom septembra 2022. godine. 
+
 The hand was made using the Arduino platform and consists of three servo motors that form three axes of rotation. The arm executes the commands it receives through the serial port from the computer, and the possibilities are to move left, right, up, down, extend and bend. Position changes occur for a pre-defined angle, which is small, to allow reaching a larger number of points in space.
+
+The project was created at the Petnica Science Center during September 2022.
 
 ## Hardver
 
